@@ -28,7 +28,7 @@ export default {
   },
   methods: {
     shareBoard () {
-      let text = "f1bingo.com\n\n"
+      let text = "https://sotu.bingo\n\n"
 
       let results = [
         [],
